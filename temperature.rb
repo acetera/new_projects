@@ -24,3 +24,7 @@ elsif todays_temperature_f > 30
 else 
 	puts "Wow"
 end
+
+
+
+
