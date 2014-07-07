@@ -9,8 +9,6 @@ end
 =end
 
 
-
-
 =begin
 Homework #2 Answer
 puts "Type a number"
